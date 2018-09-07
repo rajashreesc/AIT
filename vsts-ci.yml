@@ -7,7 +7,7 @@ pool:
   vmImage: 'VS2017-Win2016'
 
 variables:
-  solution: '**/*.sln'
+  solution: 'C:\Users\rscha\source\repos\Solution2\UnitTestRSC\UnitTestRSC.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
