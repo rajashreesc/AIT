@@ -7,7 +7,7 @@ pool:
   vmImage: 'VS2017-Win2016'
 
 variables:
-  solution: 'C:\Users\rscha\source\repos\Solution1\Solution1.sln'
+  solution: 'C:\Users\rscha\source\repos\Solution1\HTMLPage1.html'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
